@@ -1,0 +1,153 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Castoro:ital@0;1&family=Noto+Sans+TC:wght@100..900&display=swap');
+
+/* http://meyerweb.com/eric/tools/css/reset/ v2.0 | 20110126 License: none (public domain) */ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video { margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit; vertical-align: baseline; } /* HTML5 display-role reset for older browsers */ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; } body { line-height: 1; } ol, ul { list-style: none; } blockquote, q { quotes: none; } blockquote:before, blockquote:after, q:before, q:after { content: ''; content: none; } table { border-collapse: collapse; border-spacing: 0; }
+.container {
+    margin: 0 auto;
+    width: 1296px;
+   
+}
+.box.container {
+   margin: 0 auto;
+}
+body {
+    font-family: 'Castoro', serif;
+    line-height: 1.5;
+}
+
+.h1
+{
+color: #000;
+line-height: 192PX;
+font-size: 128px;
+text-align: left;
+padding: 160px 0px 0px 0px;
+}
+
+.h2
+{
+color: #000;
+line-height: 192PX;
+font-size: 128px;
+text-align: left;
+}
+
+.pic img{
+    width: 636px;
+    height: 848px;
+    vertical-align: middle; 
+
+
+}
+.box1
+{
+
+
+background: #EFEFEF;
+display: flex;
+align-items: center;      
+
+}
+.box-p
+{
+padding:48px 0px;
+
+}
+.box1 p
+{
+text-align:left;
+font-size: 32px;
+line-height: 48px;
+padding:48px 0px;
+
+
+}
+.w-50.left.box2{
+    padding: 40px 0px 120px 0px;
+}
+
+
+.box2-ul
+{
+    margin: 40px 0px;
+}
+
+
+.li-line
+{
+    height: 60px;
+    border: 0px 0px 3px 0px;
+    border-bottom: 3px solid #AE0000;
+    color:#AE0000;
+    font-size: 40px;
+    margin: 16px 0;
+    padding:0;
+}
+
+.li-1
+{
+    font-size: 20px; 
+    text-align: left;
+    color: #949494;
+    list-style:none;
+    padding: 4px;
+}
+.li-p
+{
+    
+    font-size: 24px;
+    text-align: left;
+    color: #000;
+    list-style:none;
+    padding: 4px;
+    
+}   
+
+}
+.pic
+{ 
+    text-align:center;
+}
+
+.footer-1
+{
+background: #000000;
+display: flex;
+align-items: center;    
+}
+.li-footer
+{
+ display: inline;
+ padding:0px 20px;
+ text-align: center;
+}
+
+.ul-footer
+{
+    padding: 64px 0px;
+}
+
+}
+.w-50
+{
+    width:95%;
+   
+}
+.right
+{
+   
+    margin-left:auto;
+}
+
+.left
+{
+    margin-right:auto;
+}
+
+.center
+{
+    text-align:center;
+}
+
